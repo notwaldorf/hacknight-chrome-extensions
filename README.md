@@ -2,6 +2,7 @@ Sample Chrome Extensions
 ===========================
 
 To install,
+
 1. Navigate to `chrome://extensions/` in your Chrome browser
 2. Check the `Developer Mode` checkbox
 3. Load any of these sample extensions as an "unpacked" extension. Hint: when the file browser dialog

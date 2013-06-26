@@ -12,3 +12,4 @@ pops up, you want to select the folder, not a specific file.
 1. Kittens! -- adds a little toolbar button that fetches a kitten photo for you
 2. Harlem Shake -- makes pages which contain the word 'Harlem' do the Harlem shake
 3. Harlem Shake 2 -- same thing as above, but with page actions.
+4. Tutorial -- slides from the presentation.
